@@ -12,6 +12,11 @@ header {
     background: var(--Brand-Colors-Explorer-dark, #065E7C);
     padding: 12px 28px;
 }
+header #logo {
+    padding: 0.8rem;
+    background: #F4FCFF;
+    border-radius: 9999px;
+}
 header input {
     padding: 1.2rem 1.6rem 1.2rem 1.4rem;
     border-radius: 0.4rem;
